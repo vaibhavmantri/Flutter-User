@@ -29,6 +29,12 @@
 ```
    npm install
 ```
+
+<h3> APK(For android)</h3>
+<h4>Download the APK fron the link below</h4>
+```
+
+```
 <h4>This will install all the dependencies which are required for the above project to run in your system</h4>
 
 ***
