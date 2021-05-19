@@ -13,7 +13,7 @@
 <h4>Clone the Repository by copying the following commands on your terminal/bash.</h4>
 
  ```Javascript
-    git clone https://github.com/vaibhavmantri/instagram-clone.git 
+    git clone https://github.com/vaibhavmantri/Flutter-User.git 
  ```
 
 <h4>Or simply Download .zip file and run the following commands in your terminal/bash/shell</h4>
